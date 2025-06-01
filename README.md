@@ -15,4 +15,4 @@ my_markdown.replaceMarkdown()
 print(my_markdown.md_data)
 ```
 
-That's about it! It's not yet perfect, depending on how you use it, there might be bugs. But, so far it works with my website.
+That's about it! It's not yet perfect, depending on how you use it, there might be bugs. But, so far it works with my website. Also, use CSS to adjust the HTML output.
