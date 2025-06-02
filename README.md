@@ -1,6 +1,6 @@
 # Markdown to HTML in Python
 
-A basic Markdown to HTML parser written in Python. This project was specifically made for my website, thus, you may need to tweak some things in the code to fit your needs. But, it may work as inteded for all basic things.
+A basic Markdown to HTML parser written in Python. This project was specifically made for my website, thus, you may need to tweak some things in the code to fit your needs. But, it may work as intended for all basic things.
 
 ## How to Use the markdown.py
 ```
